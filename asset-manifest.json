@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PrashidPal_f4reactcalculator/static/css/main.db158144.css",
+    "main.js": "/PrashidPal_f4reactcalculator/static/js/main.65345f31.js",
+    "index.html": "/PrashidPal_f4reactcalculator/index.html",
+    "main.db158144.css.map": "/PrashidPal_f4reactcalculator/static/css/main.db158144.css.map",
+    "main.65345f31.js.map": "/PrashidPal_f4reactcalculator/static/js/main.65345f31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db158144.css",
+    "static/js/main.65345f31.js"
+  ]
+}
